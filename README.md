@@ -9,7 +9,12 @@
 📌 I've one year of working experience and have gained knowledge in Spring Boot and Linux.
 
 ## Tech Stack
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+## Latest Blogs
+- [Importance of Key Prop in React](https://romabulani.hashnode.dev/importance-of-key-prop-in-react)
+- [Different Promise Methods](https://romabulani.hashnode.dev/different-promise-methods)
+- [Shallow Copy Vs Deep Copy](https://romabulani.hashnode.dev/shallow-copy-vs-deep-copy)
 
 ## Github Statistics
 <div>
