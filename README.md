@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏 , I'm <a href="https://romabulani.netlify.app/">Roma Bulani</a></h1>
 
-📌 I'm currently learning Web Development.
+📌 I'm a Web Developer, majorly worked on ReactJS, Typescript, NextJS, SEO and Performance Optimisation.
 
 📌 I've earned 6⭐ badge in Problem Solving and 5⭐ in Python on <a href="https://www.hackerrank.com/romabulani">Hackerrank</a>.
 
