@@ -15,13 +15,6 @@
 - [Different Promise Methods](https://romabulani.hashnode.dev/different-promise-methods)
 - [Shallow Copy Vs Deep Copy](https://romabulani.hashnode.dev/shallow-copy-vs-deep-copy)
 
-## Github Statistics
-<div>
-<a href='https://github.com/romabulani/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=romabulani&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&theme=radical' alt="romabulani" height="200"></img></a>
-
-
-<a href='https://github.com/romabulani/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=romabulani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21' alt="romabulani"></img></a>
-</div>
 
 ## Connect with me
 <a href='https://twitter.com/romabulani' target='_blank'> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="twitter"/></a>
